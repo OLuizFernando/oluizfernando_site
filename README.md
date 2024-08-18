@@ -1,2 +1,2 @@
-# oluizfernando_site
- Código fonte do meu site de portfólio
+# My Portfolio
+ Source code of my simple portfolio site
