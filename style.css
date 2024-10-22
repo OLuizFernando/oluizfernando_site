@@ -1,11 +1,20 @@
-html, body {
-    height: 100%;
-    margin: 0;
+html,
+body {
+  height: 100%;
+  margin: 0;
 }
 
 .full-screen {
-    height: 90vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  height: 90vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.bg-secondary {
+  background-color: #343a40 !important;
+}
+
+.fs-5 {
+  font-size: 1.2rem !important;
 }
